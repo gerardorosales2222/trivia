@@ -1,0 +1,15 @@
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Release\Trivia.frmMenu.resources
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Release\Trivia.frmPreguntas.resources
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Release\Trivia.Properties.Resources.resources
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Release\Trivia.csproj.GenerateResource.Cache
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Release\Trivia.frmResponder.resources
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\bin\Release\Trivia 1.1.exe.manifest
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\bin\Release\Trivia 1.1.application
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\bin\Release\Trivia 1.1.exe
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\bin\Release\Trivia 1.1.pdb
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Release\Trivia 1.1.exe.manifest
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Release\Trivia 1.1.application
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Release\Trivia 1.1.exe
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Release\Trivia 1.1.pdb
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Release\Trivia 1.1.TrustInfo.xml
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Release\Trivia.csprojResolveAssemblyReference.cache

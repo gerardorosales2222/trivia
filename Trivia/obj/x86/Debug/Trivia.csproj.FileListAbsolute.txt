@@ -1,0 +1,24 @@
+C:\Users\Gerardo\AppData\Local\Temporary Projects\Trivia\bin\Debug\Trivia.exe
+C:\Users\Gerardo\AppData\Local\Temporary Projects\Trivia\bin\Debug\Trivia.pdb
+C:\Users\Gerardo\AppData\Local\Temporary Projects\Trivia\obj\x86\Debug\Trivia.frmMenu.resources
+C:\Users\Gerardo\AppData\Local\Temporary Projects\Trivia\obj\x86\Debug\Trivia.Properties.Resources.resources
+C:\Users\Gerardo\AppData\Local\Temporary Projects\Trivia\obj\x86\Debug\Trivia.csproj.GenerateResource.Cache
+C:\Users\Gerardo\AppData\Local\Temporary Projects\Trivia\obj\x86\Debug\Trivia.exe
+C:\Users\Gerardo\AppData\Local\Temporary Projects\Trivia\obj\x86\Debug\Trivia.pdb
+C:\Users\Gerardo\AppData\Local\Temporary Projects\Trivia\obj\x86\Debug\Trivia.frmPreguntas.resources
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia.frmMenu.resources
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia.frmPreguntas.resources
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia.Properties.Resources.resources
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia.csproj.GenerateResource.Cache
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia.frmResponder.resources
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\bin\Debug\Trivia 1.1.exe.manifest
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\bin\Debug\Trivia 1.1.application
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\bin\Debug\Trivia 1.1.exe
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\bin\Debug\Trivia 1.1.pdb
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia 1.1.exe.manifest
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia 1.1.application
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia 1.1.exe
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia 1.1.pdb
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia 1.1.TrustInfo.xml
+C:\Users\Gerardo\documents\visual studio 2010\Projects\Trivia\Trivia\obj\x86\Debug\Trivia.frmResultados.resources
